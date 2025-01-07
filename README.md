@@ -1,4 +1,3 @@
-# Basis-Data
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
@@ -33,9 +32,9 @@
 <h3 align="center">Basis Data</h3>
 
   <p align="center">
-    project_description
+    Project Tugas Mata Kuliah Basis Data
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Zeinkunn/Basis-Data/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -64,6 +63,14 @@ Proyek ini dirancang tidak hanya untuk mengasah kemampuan teknis mahasiswa, teta
 
 ### Built With
 
-* [![SQL][PostgreSQL]][https://www.postgresql.org/]
+* [![SQL][PostgreSQL]][SQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[SQL]
+https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB
+[React-url]: https://reactjs.org/
